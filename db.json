@@ -16,5 +16,14 @@
       "renda": "1000"
     }
   ],
-  "transacoes": []
+  "transacoes": [
+    {
+      "id": "ab3a",
+      "nome": "Livro",
+      "valor": 56,
+      "tipo": "despesa",
+      "categoria": "Estudos",
+      "data": "2025-05-23"
+    }
+  ]
 }
