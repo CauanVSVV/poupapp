@@ -1,29 +1,11 @@
 {
   "usuarios": [
     {
-      "id": "76ec",
-      "nome": "Cauan",
-      "renda": "2000"
-    },
-    {
-      "id": "f1ac",
+      "id": "0710",
       "nome": "Cauan Valadares",
-      "renda": "1000"
-    },
-    {
-      "id": "59e5",
-      "nome": "Cauan Valadares",
-      "renda": "1000"
+      "renda": "5000",
+      "orcamentoDiario": 166.66666666666666
     }
   ],
-  "transacoes": [
-    {
-      "id": "ab3a",
-      "nome": "Livro",
-      "valor": 56,
-      "tipo": "despesa",
-      "categoria": "Estudos",
-      "data": "2025-05-23"
-    }
-  ]
+  "transacoes": []
 }
