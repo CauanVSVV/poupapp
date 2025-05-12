@@ -5,7 +5,32 @@
       "nome": "Cauan Valadares",
       "renda": "5000",
       "orcamentoDiario": 166.66666666666666
+    },
+    {
+      "id": "f576",
+      "nome": "Cauan Valadares",
+      "renda": "5000",
+      "orcamentoDiario": 166.66666666666666
     }
   ],
-  "transacoes": []
+  "transacoes": [
+    {
+      "id": "3974",
+      "nome": "Pix",
+      "valor": 40,
+      "tipo": "receita",
+      "categoria": "Pagamentos",
+      "data": "2025-05-17",
+      "userId": "0710"
+    },
+    {
+      "id": "c1e3",
+      "nome": "livro",
+      "valor": 40,
+      "tipo": "despesa",
+      "categoria": "Estudos",
+      "data": "2025-05-29",
+      "userId": "0710"
+    }
+  ]
 }
