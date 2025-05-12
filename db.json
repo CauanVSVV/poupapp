@@ -4,13 +4,19 @@
       "id": "0710",
       "nome": "Cauan Valadares",
       "renda": "5000",
-      "orcamentoDiario": 166.66666666666666
+      "orcamentoDiario": 106.66666666666666
     },
     {
       "id": "f576",
       "nome": "Cauan Valadares",
       "renda": "5000",
       "orcamentoDiario": 166.66666666666666
+    },
+    {
+      "id": "5d3f",
+      "nome": "Cauan Valadares",
+      "renda": "2500",
+      "orcamentoDiario": 83.33333333333333
     }
   ],
   "transacoes": [
@@ -30,6 +36,15 @@
       "tipo": "despesa",
       "categoria": "Estudos",
       "data": "2025-05-29",
+      "userId": "0710"
+    },
+    {
+      "id": "6b50",
+      "nome": "claro",
+      "valor": 60,
+      "tipo": "despesa",
+      "categoria": "operadora",
+      "data": "",
       "userId": "0710"
     }
   ]
